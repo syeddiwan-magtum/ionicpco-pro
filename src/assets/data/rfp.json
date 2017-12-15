@@ -1,0 +1,57 @@
+{
+  "message": "Retrived successfully",
+  "success": true,
+  "list": [
+    {
+      "id": "1",
+      "no": "1A",
+	  "bid_number":"sdfsad",
+      "project_id": "1",
+      "format": "Standard",
+      "title": "First RFP",
+      "description": "First RFP description",
+      "type": "type1",
+      "permits": "city, utllities, recycle",
+      "requested_by_id": "",
+      "requested_by_name": "",
+      "plan_start_date": "",
+      "approver_id": "",
+      "approver_name": ""
+    },
+    {
+      "id": "2",
+      "no": "2A",
+      "project_id": "1",
+      "project_no": "12A",
+      "format": "Standard",
+      "title": "Second RFP",
+      "description": "Second RFP description",
+      "type": "type1",
+      "permits": "city, utllities, recycle",
+      "requested_by_id": "",
+      "requested_by_name": "",
+      "plan_start_date": "",
+      "approver_id": "",
+      "approver_name": ""
+    },
+    {
+      "id": "3",
+      "no": "3A",
+      "project_id": "1",
+      "project_no": "312A",
+      "format": "Standard",
+      "title": "Third RFP",
+      "description": "third RFP description",
+      "type": "type1",
+      "permits": "city, utllities, recycle",
+      "requested_by_id": "",
+      "requested_by_name": "",
+      "plan_start_date": "",
+      "approver_id": "",
+      "approver_name": ""
+    }
+
+  ]
+    
+
+}
