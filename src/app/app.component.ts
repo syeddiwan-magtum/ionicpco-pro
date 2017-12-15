@@ -44,12 +44,12 @@ export class MyApp {
   }
 
   logout() {
-   /* this.storage.remove(`user api_token`);
-    this.storage.remove('user info');
+   //this.storage.remove(`user api_token`);
+    //this.storage.remove('user info');
 
     this.nav.setRoot(LoginPage);
     this.menuCtrl.enable(false);
-    */
+   
   }
 
 }
